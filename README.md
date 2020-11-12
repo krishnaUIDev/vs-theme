@@ -65,5 +65,3 @@ These are the things we have control over. If you would like to change something
 https://code.visualstudio.com/docs/getstarted/theme-color-reference
 
 ## Thanks
-
-Thanks to Roberto Achar for doing much of the initial porting to VS Code.
