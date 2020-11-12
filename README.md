@@ -1,5 +1,11 @@
 # CyberDude Theme for VS Code
 
+#### VS Code Extension market place
+
+![Extension](images/vsCode.PNG)
+
+#### Sample theme
+
 ![Preview](images/theme.PNG)
 
 # Installation
