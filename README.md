@@ -11,6 +11,10 @@
 5. Code > Preferences > Color Theme > **Cyberdude**
 6. Optional: Use the recommended settings below for best experience
 
+You can directly download from market place:
+
+https://marketplace.visualstudio.com/items?itemName=Krishnakanth.cyberdude
+
 ## Recommended Settings
 
 ```js
