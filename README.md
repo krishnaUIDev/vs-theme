@@ -5,10 +5,10 @@
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Cyberdude` - find the one by **krishnaUIDev** - there are a few other half-baked ones so make sure you have the right one!
+2. Search for `Cyberdude theme` - find the one by **krishnaKanth** - there are a few other half-baked ones so make sure you have the right one!
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor
-5. Code > Preferences > Color Theme > **Cyberdude**
+5. Code > Preferences > Color Theme > **Cyberdude theme**
 6. Optional: Use the recommended settings below for best experience
 
 You can directly download from market place:
