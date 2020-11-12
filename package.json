@@ -1,21 +1,41 @@
 {
-    "name": "cyberdude",
-    "displayName": "cyberdude",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.51.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "cyberdude",
-                "uiTheme": "vs-dark",
-                "path": "./themes/cyberdude-color-theme.json"
-            }
-        ]
-    }
+  "name": "cyberdude",
+  "displayName": "Cyberdude Theme",
+  "description": "🔥 Never stop learing and Never give up! This theme is super cool.. try it",
+  "version": "0.0.1",
+  "publisher": "KrishnaUIDev",
+  "author": {
+    "name": "KrishnaKanth"
+  },
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krishnaUIDev/vs-theme"
+  },
+  "galleryBanner": {
+    "color": "#193549",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Dark Theme",
+    "VSCode",
+    "Dark Mode",
+    "blue",
+    "theme"
+  ],
+  "icon": "images/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "cyberdude",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberdude-color-theme.json"
+      }
+    ]
+  }
 }
